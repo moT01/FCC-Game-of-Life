@@ -1,5 +1,5 @@
 ## FCC-Game-of-Life
-##### Game of Life project for [freecodecamp.com](https://www.freecodecamp.com/challenges/build-the-game-of-life)
+##### Game of Life project for [freeCodeCamp](https://www.freecodecamp.org/)
 ##### Check it out [here](https://mot01.github.io/FCC-Game-of-Life/)
 
 <br/>
